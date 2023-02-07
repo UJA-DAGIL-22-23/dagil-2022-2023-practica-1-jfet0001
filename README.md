@@ -9,7 +9,7 @@ Tus tareas consisten en:
 <img src='/foto.png' width='200px'>
 
 Estudiante de Ingeniería Informática de la rama de Ingenieria de Software
-* **Correo**: vrivas@ujaen.es
+* **Correo**: jfet0001@red.ujaen.es
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
