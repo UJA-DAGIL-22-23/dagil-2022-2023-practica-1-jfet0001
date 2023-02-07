@@ -11,5 +11,5 @@ Tus tareas consisten en:
 Estudiante de Ingeniería Informática de la rama de Ingenieria de Software
 * **Correo**: jfet0001@red.ujaen.es
 * **Web**: No disponible
-* **GitHub**: https://github.com/vrivas/
+* **GitHub**: https://github.com/jfet0001
 * **Trello**: https://trello.com/vrivas_ujaen_es
