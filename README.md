@@ -8,7 +8,7 @@ Tus tareas consisten en:
 ### Juan Francisco Escudero Toribio
 <img src='/foto.png' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
+Estudiante de Ingeniería Informática de la rama de Ingenieria de Software
 * **Correo**: vrivas@ujaen.es
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
