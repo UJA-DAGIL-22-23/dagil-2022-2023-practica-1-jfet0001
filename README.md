@@ -13,3 +13,14 @@ Estudiante de Ingeniería Informática de la rama de Ingenieria de Software
 * **Web**: No disponible
 * **GitHub**: https://github.com/jfet0001
 * **Trello**: https://trello.com/b/NscYFrUb/primera-pr%C3%A1ctica
+
+
+**Captura inicial Trello**
+<img src='/capturainicial.png' width='200px'>
+
+**Usuario GitHub**: jfet0001
+**Captura pantalla GitHub**
+<img src='/capturagithub.png' width='200px'>
+
+**Captura final de Trello tras haber acabado todas las tareas**
+<img src='/capturafinal.png' width='200px'>
